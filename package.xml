@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematype="application/xml"?>
 <package format="3">
   <name>articubot_one</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="sriramyagnapriya2005@gmail.com">Sriram Yagna Priya/maintainer>
+  <maintainer email="sriramyagnapriya2005@gmail.com">Sriram Yagna Priya</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
@@ -16,3 +16,4 @@
     <build_type>ament_cmake</build_type>
   </export>
 </package>
+
